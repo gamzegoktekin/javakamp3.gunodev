@@ -1,0 +1,5 @@
+package absractDemo;
+
+public class BaseDatabaseManager {
+
+}

@@ -1,0 +1,13 @@
+package polymorphismDemo;
+
+import java.util.logging.Logger;
+
+public class Main {
+
+	public static void main(String[] args) {
+		EmailLogger emailLogger = new EmailLogger();
+		Logger.Log("Log masajı");
+
+	}
+
+}

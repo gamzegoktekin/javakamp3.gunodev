@@ -1,0 +1,12 @@
+package abstractClasses;
+
+public class Main {
+
+	public static void main(String[] args) {
+		WomenGamecalculator womenGamecalculator = new WomenGamecalculator();
+		womenGamecalculator.Hesapla();
+		womenGamecalculator.gameOver();
+		
+		GameCalculator  gameCalculator = new WomenGamecalculator();;
+}
+}
